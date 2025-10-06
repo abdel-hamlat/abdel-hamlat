@@ -15,7 +15,8 @@
 
 ### 🌱 Currently learning
 - Deeper CI/CD integrations  
-- Test reporting & dashboards  
+- Test reporting & dashboards
+- Python
 
 ### 💬 Ask me about
 - Automation frameworks (POM, data-driven, CI/CD-ready)  
