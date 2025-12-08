@@ -1,6 +1,8 @@
-# Hi there 👋, I'm Abdelhalim (Halim)
+# Hi there 👋, I'm Abdelhalim
 
 💻 **QA Automation Engineer** dedicated to delivering quality, reliability, and faster releases.  
+🎓 **Certifications:** ISTQB® Certified Tester (via ASTQB), GAQM – Certified Professional Selenium Tester (CPST)  
+🎓 **Education:** Bachelor’s in Business Management  
 🔧 Skilled in **Playwright, Selenium, Cypress, Java/JUnit, Maven**  
 🌐 Experienced in **API testing (Java HTTP Client/Javax), SQL validation, and 508 Accessibility testing with Axe-core**  
 🚀 CI/CD integration with **Jenkins and GitHub Actions**  
@@ -15,8 +17,8 @@
 
 ### 🌱 Currently learning
 - Deeper CI/CD integrations  
-- Test reporting & dashboards
-- Python
+- Test reporting & dashboards  
+- Python  
 
 ### 💬 Ask me about
 - Automation frameworks (POM, data-driven, CI/CD-ready)  
@@ -26,5 +28,4 @@
 ### 📫 How to reach me
 - **Email:** elhalimhamlat977@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/abdelhalim-hamlat-4127ba211  
-- **Portfolio:**
-
+- **Portfolio:** 
