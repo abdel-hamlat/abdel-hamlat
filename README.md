@@ -35,8 +35,6 @@
 - API testing & validation strategies  
 - Microsoft Dynamics 365 testing  
 - Section 508 Accessibility testing  
-- GitHub Actions  
-- Agile/SAFe QA best practices  
 
 ### 📫 How to reach me
 - **Email:** elhalimhamlat977@gmail.com  
