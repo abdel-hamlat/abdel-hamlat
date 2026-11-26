@@ -1,31 +1,43 @@
 # Hi there 👋, I'm Abdelhalim
 
 💻 **QA Automation Engineer** dedicated to delivering quality, reliability, and faster releases.  
-🎓 **Certifications:** ISTQB® Certified Tester (via ASTQB), GAQM – Certified Professional Selenium Tester (CPST)  
-🎓 **Education:** Bachelor’s in Business Management  
-🔧 Skilled in **Playwright, Selenium, Cypress, Java/JUnit, Maven**  
-🌐 Experienced in **API testing (Java HTTP Client/Javax), SQL validation, and 508 Accessibility testing with Axe-core**  
-🚀 CI/CD integration with **Jenkins and GitHub Actions**  
-🤝 Working in **SAFe Agile** teams to deliver high-quality software.  
-🧪 I also support **manual testing** to ensure full coverage.
+🏢 **Currently:** Software Test Engineer at VetsEZ, supporting the VA PTEMS program.  
+🎓 **Certifications:** ISTQB® Certified Tester (via ASTQB), GAQM – Certified Professional Selenium Tester (CPST), Certified AI-Empowered SAFe® Practitioner, OpenAI Technical Practitioner, and OpenAI Foundational Knowledge.  
+🎓 **Education:** Bachelor’s in Business Management.  
+🔧 Skilled in **Playwright, TypeScript, Selenium, Cypress, Java/JUnit, and Maven**.  
+🌐 Experienced in **API testing, SQL validation, and Section 508 Accessibility testing with axe-core**.  
+⚙️ Experienced in **Microsoft Dynamics 365, Unified Service Desk (USD), Power Apps, and Power Automate**.  
+🚀 Automated test execution pipelines using **GitHub Actions**.  
+🤖 Leveraging **AI-powered tools** to improve test automation and test case generation.  
+🤝 Working in **Agile Scrum and SAFe Agile** teams to deliver high-quality software.  
+🧪 Experienced in **manual testing, regression testing, and production smoke testing**.
 
 ---
 
 ### 🔭 Currently working on
-- Building advanced **Playwright and Selenium automation frameworks** for web and API testing  
-- Improving **CI/CD pipelines** for faster feedback and reliability  
+- Building and maintaining **Playwright automation frameworks** from scratch  
+- Automating functional, regression, and end-to-end testing  
+- Performing manual testing of **Microsoft Dynamics 365 USD**  
+- Conducting post-deployment **production smoke testing**  
+- Improving automated testing pipelines using **GitHub Actions**  
+- Triggering automated tests from **Microsoft Teams using Power Automate**  
+- Improving test reporting with **Allure Reporting**  
 
 ### 🌱 Currently learning
-- Deeper CI/CD integrations  
-- Test reporting & dashboards  
-- Python  
+- Desktop application testing and automation tools  
+- Advanced Playwright and TypeScript  
+- AI-powered test automation  
+- Advanced GitHub Actions workflows  
 
 ### 💬 Ask me about
-- Automation frameworks (POM, data-driven, CI/CD-ready)  
+- Automation frameworks (POM, data-driven, CI-ready)  
+- Playwright and Selenium automation  
 - API testing & validation strategies  
+- Microsoft Dynamics 365 testing  
+- Section 508 Accessibility testing  
+- GitHub Actions  
 - Agile/SAFe QA best practices  
 
 ### 📫 How to reach me
 - **Email:** elhalimhamlat977@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/abdelhalim-hamlat-4127ba211  
-- **Portfolio:** 
+- **LinkedIn:** https://www.linkedin.com/in/abdelhalim-hamlat-4127ba211
